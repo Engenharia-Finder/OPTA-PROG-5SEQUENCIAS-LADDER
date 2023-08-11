@@ -1,0 +1,32 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Finder\\AppData\\Local\\T\\A\\internal\\arduino_mbed_opta_3.5.4_ccd8464f766ff0fc\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Finder\\AppData\\Local\\T\\A\\internal\\arduino_mbed_opta_3.5.4_ccd8464f766ff0fc\\variants\\OPTA"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Finder\\Documents\\ESTADIO\\LLSketch_build\\sketch\\LLSketch.ino.cpp",
+    "Include": "AlPlc_Opta.h",
+    "Includepath": "C:\\Users\\Finder\\AppData\\Local\\T\\A\\internal\\AlPlc_Opta_1.0.3_48d6cd6edcc71318\\AlPlc_Opta\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Finder\\Documents\\ESTADIO\\LLSketch_build\\sketch\\LLSketch.ino.cpp",
+    "Include": "ArduinoRS485.h",
+    "Includepath": "C:\\Users\\Finder\\AppData\\Local\\T\\A\\internal\\ArduinoRS485_1.0.5_a61cd3c6d72c41a3\\ArduinoRS485\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Finder\\Documents\\ESTADIO\\LLSketch_build\\sketch\\LLSketch.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Finder\\AppData\\Local\\T\\A\\internal\\ArduinoRS485_1.0.5_a61cd3c6d72c41a3\\ArduinoRS485\\src\\RS485.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

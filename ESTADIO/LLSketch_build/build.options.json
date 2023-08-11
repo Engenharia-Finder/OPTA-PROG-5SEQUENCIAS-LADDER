@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "arduino:mbed_opta:opta",
+  "hardwareFolders": "C:\\Users\\Finder\\AppData\\Local\\T\\A\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Finder\\AppData\\Local\\T\\U\\libraries",
+  "sketchLocation": "C:\\Users\\Finder\\Documents\\ESTADIO\\LLSketch"
+}
